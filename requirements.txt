@@ -1,0 +1,4 @@
+pyquotex
+fastapi
+uvicorn
+pandas
